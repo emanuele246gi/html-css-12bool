@@ -4,13 +4,8 @@
     box-sizing: border-box;
 }
 
-#container-one{
-    width: 100%;
-}
-
 .box{
-    margin-left: 120px;
-    margin-right: 120px;
+
     min-height: 20vh;
     background-color: rgb(241, 182, 192);
     border: 1px solid black;
