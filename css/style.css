@@ -4,14 +4,15 @@
     box-sizing: border-box;
 }
 
-[class*="col-"] {
-    position: relative;
-}
-
 .box{
     min-height: 20vh;
     background-color: rgb(241, 182, 192);
     border: 1px solid black;
     text-align: center;
-    position: absolute;
+}
+
+.box-nested{
+    background-color: coral;
+    border-color: white;
+    min-height: 50px;
 }

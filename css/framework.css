@@ -3,16 +3,6 @@
     flex-wrap: wrap;
 }
 
-[class*="col-"] {
-    flex: 0 0 auto;
-}
-
-.col-xs {
-    flex-grow: 1;
-    flex-basis: 0;
-    max-width: 100%;
-}
-
 .col-xs-1 {
     flex-basis: calc((100% / 12) * 1);
     max-width: calc((100% / 12) * 1);
