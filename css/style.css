@@ -9,10 +9,12 @@
     background-color: rgb(241, 182, 192);
     border: 1px solid black;
     text-align: center;
+    padding: 10px;
 }
 
 .box-nested{
     background-color: coral;
-    border-color: white;
-    min-height: 50px;
+    border: 1px solid white;
+    min-height: 100%;
+    padding-top: 20px;
 }
