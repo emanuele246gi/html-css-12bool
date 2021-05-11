@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#container-one{
+    width: 100%;
+}
+
+.box{
+    margin-left: 120px;
+    margin-right: 120px;
+    min-height: 20vh;
+    background-color: #006cfa;
+    border: 1px solid white;
+}
